@@ -20,5 +20,9 @@ class ViewController: UIViewController {
         print("hello world!")
     }
 
+    func printFive() {
+        print("five")
+    }
+
 }
 
